@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\matth\documents\visual studio 2015\projects\exam 1\exam 1\venue.h(46): warning C4715: 'Venue::findEvent': not all control paths return a value
+c:\users\matth\documents\visual studio 2015\projects\exam 1\exam 1\venue.h(53): warning C4715: 'Venue::findEvent': not all control paths return a value
+  Exam 1.vcxproj -> c:\users\matth\documents\visual studio 2015\Projects\Exam 1\Debug\Exam 1.exe
+  Exam 1.vcxproj -> c:\users\matth\documents\visual studio 2015\Projects\Exam 1\Debug\Exam 1.pdb (Partial PDB)
